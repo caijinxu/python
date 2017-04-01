@@ -26,3 +26,6 @@ f.write("8")
 f.write("9")
 f.close()
 '''
+
+f = open("test.log","w")
+f.write("")
