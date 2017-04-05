@@ -1,3 +1,4 @@
+'''
 d = {'Michael': '95', 'Bob': '75', 'Tracy': '85'}
 for i in range(3):
     inname = input("输入你的姓名：")
@@ -13,4 +14,6 @@ for i in range(3):
         print("请输入正确的用户名！")
 if i == 2:
     print("错误输入3次，请稍后再试！")
+'''
+
 
